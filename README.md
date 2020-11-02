@@ -1,6 +1,6 @@
-# first_app
+# question_answer_flutter_app
 
-A new Flutter project.
+This is a simple practice app I've made using flutter.
 
 ## Getting Started
 
